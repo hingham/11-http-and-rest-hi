@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "vegetables",
+      "display_name": "savoy cabbage",
+      "description": "green"
+    },
+    {
+      "name": "sweet potatoe",
+      "display_name": "carrot orange",
+      "description": "good",
+      "id": 2
+    },
+    {
+      "name": "carrot",
+      "display_name": "carrot orange",
+      "description": "good",
+      "id": 3
+    },
+    {
+      "name": "carrot",
+      "display_name": "carrot orange",
+      "description": "good",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "vegetables",
+      "name": "cabbage",
+      "display_name": "savoy cabbage",
+      "description": "wise"
+    }
+  ]
+}

@@ -1,42 +1,28 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Project Name: HTTP Rest API
 
-### Author: Student/Group Name
+### Author: Hannah Ingham
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [repo]https://github.com/hingham/10-project-q-hi
+
 
 ### Modules
-#### `modulename.js`
-##### Exported Values and Methods
+API
 
-###### `foo(thing) -> string`
-Usage Notes or examples
 
-###### `bar(array) -> array`
-Usage Notes or examples
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+* npm init
+* npm i superagent
 
-#### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+#### Running the app: go to your local host to view API
+* localhost:3000/category
+* localhost:3000/products
 
-#### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
 
 #### UML
 Link to an image of the UML for your application and response to events
